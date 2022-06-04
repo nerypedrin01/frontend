@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+}
+
+mat-card-actions {
+    text-align: end;
+}
+
+i.space {
+    padding: 3px;
+}
+
+i.edit {
+    color: blueviolet;
+}
+
+i.delete {
+    color: red;
+}
